@@ -20,7 +20,7 @@ Let’s connect, build, and innovate together! 🚀.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aydan bayramova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydan bayramova" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aydanbayramova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydanbayramova" height="30" width="40" /></a>
 <a href="https://medium.com/@aydanbayramova49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aydanbayramova49" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aydan_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aydan_developer" height="30" width="40" /></a>
 </p>
