@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aydan</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate Software Engineer and Java Backend Developer with expertise in building scalable and efficient backend systems. With hands-on experience in Java, Spring Boot, and related technologies, I specialize in developing RESTful APIs, working with relational databases, and implementing design patterns to solve complex problems.</h3>
+<h5 align="center">I am a Software Engineer and Java Backend Developer with a strong passion for crafting scalable, reliable, and high-performance backend systems. My expertise lies in leveraging Java, Spring Boot, and cutting-edge technologies to build robust solutions that meet real-world challenges.
+I thrive on solving complex problems, collaborating with teams, and delivering impactful solutions. My GitHub showcases projects where innovation meets technical excellence, from financial management systems to scalable microservices.
+
+Let’s connect, build, and innovate together! 🚀.</h5>
 
 - 🔭 I’m currently working on [ms-banking-core](https://github.com/AydanBayramova/ms-banking-core)
 
