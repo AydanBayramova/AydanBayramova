@@ -14,8 +14,6 @@ Let’s connect, build, and innovate together! 🚀.</h4>
 
 - 📫 How to reach me **aydanbayramova49@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/presentation/d/1KffrKXQnhC2PECAm1heAOSlWLBCMl1G34u-RmvwNRy4/edit?usp=sharing](https://docs.google.com/presentation/d/1KffrKXQnhC2PECAm1heAOSlWLBCMl1G34u-RmvwNRy4/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aydanbayramova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydanbayramova" height="30" width="40" /></a>
