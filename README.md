@@ -4,8 +4,6 @@ I thrive on solving complex problems, collaborating with teams, and delivering i
 
 Let’s connect, build, and innovate together! 🚀.</h4>
 
-- 🔭 I’m currently working on [ms-banking-core](https://github.com/AydanBayramova/ms-banking-core)
-
 - 🌱 I’m currently learning **Microservices Architecture**
 
 - 👨‍💻 More information about me [https://www.linkedin.com/in/aydanbayramova/](https://www.linkedin.com/in/aydanbayramova/)
