@@ -69,11 +69,9 @@ Java Backend Developer • AI Enthusiast • Distributed Systems Explorer
 ## 📊 GitHub Stats
 
 <div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AydanBayramova&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aydanbayramova&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydanbayramova&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AydanBayramova&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -82,7 +80,7 @@ Java Backend Developer • AI Enthusiast • Distributed Systems Explorer
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aydanbayramova&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AydanBayramova&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,15 +99,6 @@ Backend microservices architecture using Spring Boot ecosystem.
 AI-powered RAG system experiments and implementations.
 
 🔗 https://github.com/AydanBayramova/retrieval-augmented-generation
-
----
-
-## 📝 Latest Medium Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 
